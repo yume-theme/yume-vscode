@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/visual-studio-marketplace/v/feelthatvib3.yume-theme?label=Visual%20Studio%20Marketplace&color=pink)](https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/feelthatvib3.yume-theme?color=pink)](https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?color=pink)](https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme)
-[![GitHub stars](https://img.shields.io/github/stars/feelthatvib3/yume.svg?color=pink)](https://github.com/feelthatvib3/yume/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/feelthatvib3/yume?color=pink)](https://github.com/feelthatvib3/yume/stargazers)
 
 **_Yume_** is an exquisitely crafted VS Code theme inspired by the Xcode IDE syntax highlighting (combined with a hint of personal charm of yours truly).
 
