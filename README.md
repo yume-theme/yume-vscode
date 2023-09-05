@@ -27,7 +27,7 @@
 
 ## 🙋 Feedback
 
-- We value your feedback! If you have any comments, questions, or suggestions, please feel free to [contact us](https://discord.gg/invite/A8cCcJF8wA).
+- We value your feedback! If you have any comments, questions, or suggestions, please feel free to [submit an issue](https://github.com/feelthatvib3/yume/issues/new).
 
 And by the way, if this floats your boat, tossing a star our way would be like adding extra sprinkles on a cupcake 🧁 — it's a teensy gesture for you, but it's like a virtual high-five for us. Your support keeps us happily coding away! 🌟
 
