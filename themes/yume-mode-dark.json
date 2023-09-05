@@ -9,8 +9,8 @@
 
     "button.background": "#3C93FD",
 
-    "dropdown.background": "#161616",
-    "dropdown.border": "#0E0E0E",
+    "dropdown.background": "#1E1E1E",
+    "dropdown.border": "#1E1E1E",
 
     "input.background": "#222222",
     "input.border": "#222222",
@@ -90,7 +90,7 @@
     "panel.background": "#161616",
     "panel.border": "#0E0E0E",
     "panelTitle.inactiveForeground": "#DBDBDD",
-    "panelInput.border": "#0E0E0E",
+    "panelInput.border": "#1E1E1E",
 
     "statusBar.background": "#191919",
     "statusBar.foreground": "#DBDBDD",
