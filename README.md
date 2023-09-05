@@ -23,7 +23,7 @@
 
 ## ✨ Contributing
 
-- Now, here comes the fun part. If you're itching to jump in and sprinkle some magic on this project, hop over to [CONTRIBUTING.md](https://github.com/feelthatvib3/yume/CONTRIBUTING.md). We promise it's not written in ancient scrolls – just some friendly guidance on how you can jazz up this code party. And who knows, your code might just become the life of the party! 🎉
+- Now, here comes the fun part. If you're itching to jump in and sprinkle some magic on this project, hop over to [CONTRIBUTING.md](https://github.com/feelthatvib3/yume/blob/main/CONTRIBUTING.md). We promise it's not written in ancient scrolls – just some friendly guidance on how you can jazz up this code party. And who knows, your code might just become the life of the party! 🎉
 
 ## 🙋 Feedback
 
