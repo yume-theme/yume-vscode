@@ -163,8 +163,6 @@
         "keyword.operator.relational",
         "keyword.operator.combinator.css",
         "storage.type.function.arrow",
-        "meta.import.tsx",
-        "entity.name.function.tsx",
         "variable.other.readwrite"
       ],
       "settings": {
@@ -216,9 +214,6 @@
         "variable.other.object.property",
         "variable.other.constant",
         "variable.other.constant.property",
-
-        "entity.name.function.tsx",
-        "entity.name.function.jsx",
         "support.variable.property",
         "support.type.property-name.media.css"
       ],
@@ -368,6 +363,21 @@
       "foreground": "#429784"
     },
     "method": {
+      "foreground": "#9167CD"
+    },
+    "method.declaration": {
+      "foreground": "#9167CD"
+    },
+    "method.defaultLibrary": {
+      "foreground": "#9167CD"
+    },
+    "function": {
+      "foreground": "#9167CD"
+    },
+    "function.declaration": {
+      "foreground": "#9167CD"
+    },
+    "function.defaultLibrary": {
       "foreground": "#9167CD"
     }
   }
