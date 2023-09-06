@@ -205,6 +205,12 @@
       }
     },
     {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#4EB1CB"
+      }
+    },
+    {
       "scope": [
         "entity.name.type",
         "entity.name.type.class",
