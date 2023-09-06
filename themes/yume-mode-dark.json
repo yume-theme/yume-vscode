@@ -4,7 +4,7 @@
   "colors": {
     "focusBorder": "#00000000",
     "foreground": "#DBDBDD",
-    "selection.background": "#191919",
+    "selection.background": "#3F3F3F",
     "icon.foreground": "#DBDBDD",
 
     "button.background": "#3C93FD",
