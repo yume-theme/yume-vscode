@@ -316,6 +316,35 @@
       "settings": {
         "foreground": "#6D7AF7"
       }
+    },
+    {
+      "scope": [
+        "punctuation.definition.heading.markdown",
+        "punctuation.definition.list.begin.markdown",
+        "punctuation.definition.markdown",
+        "entity.name.section.markdown"
+      ],
+      "settings": {
+        "foreground": "#AD3DA4"
+      }
+    },
+    {
+      "scope": [
+        "markup.bold.markdown",
+        "markup.quote.markdown",
+        "markup.italic.markdown",
+        "markup.strikethrough.markdown",
+        "markup.inline.raw.string.markdown",
+        "punctuation.definition.bold.markdown",
+        "punctuation.definition.italic.markdown",
+        "punctuation.definition.strikethrough.markdown",
+        "punctuation.definition.raw.markdown",
+        "punctuation.definition.quote.begin.markdown",
+        "string.other.link.title.markdown"
+      ],
+      "settings": {
+        "foreground": "#CA4D3E"
+      }
     }
   ],
   "semanticHighlighting": true,
