@@ -15,7 +15,7 @@
   </a>
 </p>
 
-**_Yume_** is an exquisitely crafted VS Code theme inspired by the Xcode IDE syntax highlighting (combined with a hint of personal charm of yours truly).
+> **Yume** is an exquisitely crafted VS Code theme inspired by the Xcode IDE syntax highlighting (combined with a hint of personal charm of yours truly).
 
 ## 📖 Language syntax support
 
