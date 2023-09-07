@@ -1,3 +1,7 @@
+# v0.2.2
+
+- Update homepage and repository URL links in README.md.
+
 # v0.2.1
 
 - Fix the background color of the dark mode `button`.
