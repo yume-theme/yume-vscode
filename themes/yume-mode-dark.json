@@ -223,22 +223,13 @@
       }
     },
     {
-      "scope": [
-        "string.quoted.single",
-        "string.quoted.double",
-        "string.template",
-        "constant.numeric.decimal"
-      ],
+      "scope": ["string.quoted.single", "string.quoted.double", "string.template", "constant.numeric.decimal"],
       "settings": {
         "foreground": "#FFEA8E"
       }
     },
     {
-      "scope": [
-        "punctuation.definition.comment",
-        "comment.line.double-slash",
-        "comment.block"
-      ],
+      "scope": ["punctuation.definition.comment", "comment.line.double-slash", "comment.block"],
       "settings": {
         "foreground": "#79848D"
       }
