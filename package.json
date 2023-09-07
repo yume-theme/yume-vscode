@@ -1,7 +1,7 @@
 {
   "name": "yume-theme",
   "displayName": "Yume Theme",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An exquisitely crafted VS Code theme inspired by the Xcode IDE (combined with a hint of personal charm).",
   "publisher": "feelthatvib3",
   "icon": "assets/logo.jpg",
