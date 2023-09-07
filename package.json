@@ -5,11 +5,11 @@
   "description": "An exquisitely crafted VS Code theme inspired by the Xcode IDE (combined with a hint of personal charm).",
   "publisher": "feelthatvib3",
   "icon": "assets/logo.jpg",
-  "homepage": "https://github.com/feelthatvib3/yume#readme",
+  "homepage": "https://github.com/yume-theme/yume-vscode",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/feelthatvib3/yume"
+    "url": "https://github.com/yume-theme/yume-vscode"
   },
   "engines": {
     "vscode": "^1.81.0"
