@@ -5,13 +5,13 @@
     <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/feelthatvib3.yume-theme?label=Visual%20Studio%20Marketplace&color=pink" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
-    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/feelthatvib3.yume-theme?color=pink" />
+    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/feelthatvib3.yume-theme?label=Downloads&color=pink" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
-    <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?color=pink" />
+    <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?label=Rating&color=pink" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/feelthatvib3/yume?color=pink" />
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/feelthatvib3/yume?label=Stars&color=pink" />
   </a>
 </p>
 
