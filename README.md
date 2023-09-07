@@ -10,9 +10,6 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?label=Rating&color=pink" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/feelthatvib3/yume?label=Stars&color=pink" />
-  </a>
 </p>
 
 > **Yume** is an exquisitely crafted VS Code theme inspired by the Xcode IDE syntax highlighting (combined with a hint of personal charm of yours truly).
