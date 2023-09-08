@@ -1,13 +1,13 @@
 # Yume Theme
 
 <p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
+  <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme&ssr=false#version-history">
     <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/feelthatvib3.yume-theme?label=Visual%20Studio%20Marketplace&color=pink" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
     <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/feelthatvib3.yume-theme?label=Downloads&color=pink" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme">
+  <a href="https://marketplace.visualstudio.com/items?itemName=feelthatvib3.yume-theme&ssr=false#review-details">
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?label=Rating&color=pink" />
   </a>
 </p>
