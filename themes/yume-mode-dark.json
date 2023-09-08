@@ -7,7 +7,7 @@
     "selection.background": "#3F3F3F",
     "icon.foreground": "#DBDBDD",
 
-    "button.background": "#3C93FDAA",
+    "button.background": "#306BB2",
 
     "dropdown.background": "#1E1E1E",
     "dropdown.border": "#1E1E1E",
@@ -24,18 +24,18 @@
 
     "progressBar.background": "#3C93FD",
 
-    "list.activeSelectionBackground": "#3C93FDAA",
-    "list.focusBackground": "#3C93FDAA",
+    "list.activeSelectionBackground": "#306BB2",
+    "list.focusBackground": "#306BB2",
     "list.hoverBackground": "#3C93FD25",
     "list.focusForeground": "#FFFFFF",
     "list.inactiveSelectionBackground": "#3C93FD25",
     "list.inactiveFocusBackground": "#3C93FD25",
 
     "activityBar.background": "#191919",
-    "activityBar.foreground": "#3C93FDAA",
+    "activityBar.foreground": "#306BB2",
     "activityBar.inactiveForeground": "#6F6E6E",
     "activityBar.border": "#0E0E0E",
-    "activityBarBadge.background": "#3C93FDAA",
+    "activityBarBadge.background": "#306BB2",
     "activityBarBadge.foreground": "#DBDBDD",
     "activityBar.activeBorder": "#191919",
 
@@ -99,9 +99,9 @@
     "statusBar.noFolderBackground": "#191919",
     "statusBarItem.activeBackground": "#191919",
     "statusBarItem.hoverBackground": "#3C93FD25",
-    "statusBarItem.prominentForeground": "#3C93FDAA",
-    "statusBarItem.prominentBackground": "#3C93FDAA",
-    "statusBarItem.remoteBackground": "#3C93FDAA",
+    "statusBarItem.prominentForeground": "#306BB2",
+    "statusBarItem.prominentBackground": "#306BB2",
+    "statusBarItem.remoteBackground": "#306BB2",
     "statusBarItem.remoteForeground": "#FFFFFF",
 
     "titleBar.activeBackground": "#191919",
@@ -111,7 +111,7 @@
     "titleBar.border": "#0E0E0E",
 
     "menubar.selectionForeground": "#FFFFFF",
-    "menubar.selectionBackground": "#3C93FDAA",
+    "menubar.selectionBackground": "#306BB2",
     "menu.border": "#0E0E0E",
 
     "commandCenter.foreground": "#DBDBDD",
@@ -129,12 +129,12 @@
     "notificationToast.border": "#0E0E0E",
     "notifications.foreground": "#DBDBDD",
     "notifications.background": "#191919",
-    "notificationsInfoIcon.foreground": "#3C93FDAA",
+    "notificationsInfoIcon.foreground": "#306BB2",
 
     "breadcrumb.foreground": "#DBDBDD",
     "breadcrumb.background": "#161616",
-    "breadcrumb.focusForeground": "#3C93FDAA",
-    "breadcrumb.activeSelectionForeground": "#3C93FDAA",
+    "breadcrumb.focusForeground": "#306BB2",
+    "breadcrumb.activeSelectionForeground": "#306BB2",
     "breadcrumbPicker.background": "#191919",
 
     "settings.headerForeground": "#3C93FD",
