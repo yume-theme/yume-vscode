@@ -1,3 +1,19 @@
+# v0.2.3
+
+- Replace transparent background color of the dark mode `button`.
+- Replace transparent active selection background color of the dark mode `list`.
+- Replace transparent focus background color of the dark mode `list`.
+- Replace transparent foreground color of the dark mode `activityBar`.
+- Replace transparent background color of the dark mode `activityBarBadge`.
+- Replace transparent prominent foreground color of the dark mode `statusBarItem`.
+- Replace transparent prominent background color of the dark mode `statusBarItem`.
+- Replace transparent remote background color of the dark mode `statusBarItem`.
+- Replace transparent selection background color of the dark mode `menubar`.
+- Replace transparent foreground color of the dark mode `notificationsInfoIcon`.
+- Replace transparent focus foreground color of the dark mode `breadcrumb`.
+- Replace transparent active selection foreground color of the dark mode `breadcrumb`.
+- Update repository and VS Code Marketplace URLs in `README.md`.
+
 # v0.2.2
 
 - Update homepage and repository URL links in README.md.
