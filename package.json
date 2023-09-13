@@ -1,34 +1,34 @@
 {
-  "name": "yume-theme",
-  "displayName": "Yume Theme",
-  "version": "0.2.3",
-  "description": "An exquisitely crafted VS Code theme inspired by the Xcode IDE (combined with a hint of personal charm).",
-  "publisher": "feelthatvib3",
-  "icon": "assets/logo.jpg",
-  "homepage": "https://github.com/yume-theme/yume-vscode",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yume-theme/yume-vscode"
-  },
-  "engines": {
-    "vscode": "^1.81.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Yume Light",
-        "uiTheme": "vs",
-        "path": "./themes/yume-mode-light.json"
-      },
-      {
-        "label": "Yume Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/yume-mode-dark.json"
-      }
-    ]
-  }
+    "name": "yume-theme",
+    "displayName": "Yume Theme",
+    "version": "0.2.3",
+    "description": "An exquisitely crafted VS Code theme inspired by the Xcode IDE (combined with a hint of personal charm).",
+    "publisher": "feelthatvib3",
+    "icon": "assets/logo.jpg",
+    "homepage": "https://github.com/yume-theme/yume-vscode",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yume-theme/yume-vscode"
+    },
+    "engines": {
+        "vscode": "^1.81.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yume Light",
+                "uiTheme": "vs",
+                "path": "./themes/yume-mode-light.json"
+            },
+            {
+                "label": "Yume Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yume-mode-dark.json"
+            }
+        ]
+    }
 }
