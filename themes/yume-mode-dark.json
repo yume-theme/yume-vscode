@@ -388,7 +388,8 @@
                 "storage.class.std.rust",
                 "storage.type.java",
                 "storage.type.primitive.java",
-                "storage.type.built-in.primitive"
+                "storage.type.built-in.primitive",
+                "support.type.primitive"
             ],
             "settings": {
                 "foreground": "#83D3F0"
