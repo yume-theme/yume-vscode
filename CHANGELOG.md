@@ -1,3 +1,7 @@
+# v1.0.1
+
+-   Fix the foreground color of primitive types in `TypeScript`.
+
 # v1.0.0
 
 -   Add versatile syntax highlighting support.
