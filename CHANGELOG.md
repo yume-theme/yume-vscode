@@ -1,3 +1,8 @@
+# v1.0.2
+
+-   Change the foreground color of `keyword.operator.type` to match the theme's color scheme.
+-   Change the foreground color of `support.type.builtin` for correct typization display.
+
 # v1.0.1
 
 -   Fix the foreground color of primitive types in `TypeScript`.
