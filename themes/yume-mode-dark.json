@@ -334,6 +334,13 @@
             }
         },
         {
+            "name": "Other object properties",
+            "scope": ["variable.other.property"],
+            "settings": {
+                "foreground": "#DBDBDD"
+            }
+        },
+        {
             "name": "Built-in magic functions and constants",
             "scope": ["support.function.magic", "support.variable", "variable.other.predefined"],
             "settings": {
