@@ -18,10 +18,6 @@
 
 -   We focus on elevating the presentation of your code. Our theme offers a wide-ranging array of syntax highlighting support. If you require support for additional programming languages, don't hesitate to let us know, and we'll gladly incorporate it for you.
 
-## ✨ Contributing
-
--   Now, here comes the fun part. If you're itching to jump in and sprinkle some magic on this project, hop over to [CONTRIBUTING.md](https://github.com/yume-theme/yume-vscode/blob/main/CONTRIBUTING.md). We promise it's not written in ancient scrolls – just some friendly guidance on how you can jazz up this code party. And who knows, your code might just become the life of the party! 🎉
-
 ## 🙋 Feedback
 
 -   We value your feedback! If you have any comments, questions, or suggestions, please feel free to [submit an issue](https://github.com/yume-theme/yume-vscode/issues/new).
