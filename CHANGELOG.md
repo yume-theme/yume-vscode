@@ -1,3 +1,7 @@
+# v1.0.3
+
+-   Change the foreground color of `variable.other.property` to correctly display properties.
+
 # v1.0.2
 
 -   Change the foreground color of `keyword.operator.type` to match the theme's color scheme.
