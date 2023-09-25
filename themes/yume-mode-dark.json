@@ -292,12 +292,18 @@
                 "foreground": "#DBDBDD"
             }
         },
-
         {
             "name": "HTML tags",
             "scope": ["entity.name.tag"],
             "settings": {
                 "foreground": "#EF83B0"
+            }
+        },
+        {
+            "name": "React components (.jsx, .tsx)",
+            "scope": ["support.class.component.js.jsx", "support.class.component.tsx"],
+            "settings": {
+                "foreground": "#CAB4EC"
             }
         },
         {
