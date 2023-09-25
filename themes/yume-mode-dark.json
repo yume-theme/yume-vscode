@@ -64,11 +64,17 @@
         "tab.hoverBackground": "#3C93FD20",
 
         "editor.background": "#161616",
-        "editor.selectionBackground": "#3C93FD25",
-        "editor.wordHighlightBackground": "#3C93FD50",
-        "editor.findMatchBackground": "#3C93FD75",
-        "editor.findMatchHighlightBackground": "#3C93FD25",
+        "editorLineNumber.foreground": "#5E5F63",
+        "editorLineNumber.activeForeground": "#DFDFE0",
+        "editor.selectionBackground": "#414141",
+        "editor.inactiveSelectionBackground": "#414141",
+        "editor.selectionHighlightBackground": "#414141",
+        "editor.wordHighlightBackground": "#41414180",
+        "editor.wordHighlightStrongBackground": "#414141",
+        "editor.findMatchBackground": "#414141",
+        "editor.findMatchHighlightBackground": "#414141",
         "editor.lineHighlightBackground": "#1E1E20",
+        "editor.hoverHighlightBackground": "#41414180",
 
         "editorWidget.background": "#191919",
         "editorWidget.border": "#0E0E0E",
@@ -83,9 +89,6 @@
 
         "editorIndentGuide.background": "#3B3C3F",
         "editorIndentGuide.activeBackground": "#5E5F63",
-
-        "editorLineNumber.foreground": "#5E5F63",
-        "editorLineNumber.activeForeground": "#DFDFE0",
 
         "panel.background": "#161616",
         "panel.border": "#0E0E0E",
