@@ -1,3 +1,9 @@
+# v1.0.4
+
+-   Enhanced the visual experience by updating the background color of the `editorWidget` and `editorSuggestWidget`.
+-   Improved clarity by modifying the `selection` background color within the editor.
+-   Made the code more readable by adjusting the foreground color of `React components (.jsx, .tsx)` to distinguish them from `HTML tags`.
+
 # v1.0.3
 
 -   Change the foreground color of `variable.other.property` to correctly display properties.
