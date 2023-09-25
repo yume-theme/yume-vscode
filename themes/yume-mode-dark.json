@@ -76,10 +76,10 @@
         "editor.lineHighlightBackground": "#1E1E20",
         "editor.hoverHighlightBackground": "#41414180",
 
-        "editorWidget.background": "#191919",
+        "editorWidget.background": "#1E1E1E",
         "editorWidget.border": "#0E0E0E",
 
-        "editorSuggestWidget.background": "#191919",
+        "editorSuggestWidget.background": "#1E1E1E",
         "editorSuggestWidget.border": "#0E0E0E",
         "editorSuggestWidget.foreground": "#DBDBDD",
         "editorSuggestWidget.focusHighlightForeground": "#3C93FD",
