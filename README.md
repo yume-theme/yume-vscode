@@ -13,8 +13,7 @@
 </p>
 <p>
   <a href="https://open-vsx.org/extension/feelthatvib3/yume-theme">
-    <img alt="Open VSX Marketplace Version" src="https://img.shields.io/open-vsx/v/feelthatvib3/yume-theme
-?label=Open%20VSX%20Marketplace&color=pink" />
+    <img alt="Open VSX Marketplace Version" src="https://img.shields.io/open-vsx/v/feelthatvib3/yume-theme?label=Open%20VSX%20Marketplace&color=pink" />
   </a>
   <a href="https://open-vsx.org/extension/feelthatvib3/yume-theme">
     <img alt="Open VSX Marketplace Downloads" src="https://img.shields.io/open-vsx/dt/feelthatvib3/yume-theme?label=Downloads&color=pink" />
