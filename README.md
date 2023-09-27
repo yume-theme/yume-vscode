@@ -11,6 +11,18 @@
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/feelthatvib3.yume-theme?label=Rating&color=pink" />
   </a>
 </p>
+<p>
+  <a href="https://open-vsx.org/extension/feelthatvib3/yume-theme">
+    <img alt="Open VSX Marketplace Version" src="https://img.shields.io/open-vsx/v/feelthatvib3/yume-theme
+?label=Open%20VSX%20Marketplace&color=pink" />
+  </a>
+  <a href="https://open-vsx.org/extension/feelthatvib3/yume-theme">
+    <img alt="Open VSX Marketplace Downloads" src="https://img.shields.io/open-vsx/dt/feelthatvib3/yume-theme?label=Downloads&color=pink" />
+  </a>
+  <a href="https://open-vsx.org/extension/feelthatvib3/yume-theme/reviews">
+    <img alt="Open VSX Marketplace Rating" src="https://img.shields.io/open-vsx/rating/feelthatvib3/yume-theme?label=Rating&color=pink" />
+  </a>
+</p>
 
 > **Yume** is an exquisitely crafted VS Code theme inspired by the Xcode IDE syntax highlighting (combined with a hint of personal charm of yours truly).
 
