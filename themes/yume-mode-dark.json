@@ -46,6 +46,7 @@
 
         "minimap.background": "#161616",
         "minimap.selectionOccurrenceHighlight": "#DBDBDD10",
+        "minimap.foregroundOpacity": "#00000088",
         "minimapSlider.background": "#DBDBDD10",
         "minimapSlider.hoverBackground": "#DBDBDD10",
         "minimapSlider.activeBackground": "#DBDBDD10",
