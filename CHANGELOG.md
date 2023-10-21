@@ -1,8 +1,12 @@
+# v1.0.5
+
+-   Add opacity to the foreground of the `minimap`.
+
 # v1.0.4
 
--   Enhanced the visual experience by updating the background color of the `editorWidget` and `editorSuggestWidget`.
--   Improved clarity by modifying the `selection` background color within the editor.
--   Made the code more readable by adjusting the foreground color of `React components (.jsx, .tsx)` to distinguish them from `HTML tags`.
+-   Enhance the visual experience by updating the background color of the `editorWidget` and `editorSuggestWidget`.
+-   Improv clarity by modifying the `selection` background color within the editor.
+-   Make the code more readable by adjusting the foreground color of `React components (.jsx, .tsx)` to distinguish them from `HTML tags`.
 
 # v1.0.3
 
